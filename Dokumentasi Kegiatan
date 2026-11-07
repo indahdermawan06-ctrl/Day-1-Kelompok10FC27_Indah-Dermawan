@@ -1,0 +1,22 @@
+Git, GitHub & Prompt Engineering :
+1. Prompt Engineering (Membangun dengan AI)
+ * Definisi: Seni merancang instruksi (prompt) agar model AI menghasilkan jawaban yang akurat, relevan, dan siap pakai.
+ * Struktur Prompt yang Baik:
+   * Role: Peran yang harus dijalankan AI (contoh: "You are helping me build a web app").
+   * Task: Tugas utama yang ingin diselesaikan.
+   * Context & Constraints: Batasan teknis, alur, dan batasan pustaka/bahasa yang digunakan.
+   * Format/Output: Kejelasan format output yang diharapkan (misal: kode lengkap, langkah pengujian).
+ * Keuntungan: Meningkatkan kontrol dan akurasi, mengurangi resiko respon bias/salah, serta memaksimalkan performa AI.
+2. Git vs GitHub (Manajemen Perubahan)
+ * Git: Sistem Distributed Version Control lokal untuk melacak siapa, kapan, dan perubahan apa saja yang dibuat pada kode.
+ * GitHub: Platform berbasis web untuk menyimpan repository Git secara daring (cloud) dan memfasilitasi kolaborasi tim.
+3. Alur Kerja Git (Git Workflow)
+ * Working Directory: Area lokal tempat file dibuat atau diedit.
+ * Staging Area: Tempat menampung file/perubahan yang siap untuk di-commit (git add).
+ * Repository (.git): Database lokal tempat riwayat versi disimpan (git commit).
+4. Langkah Praktik (Studi Kasus: Student Task Planner)
+ * Generate Kode: Gunakan prompt terstruktur pada platform AI (ChatGPT, Claude, dsb.) untuk membuat aplikasi web.
+ * Setup Repository: Jalankan git init pada folder proyek.
+ * Simpan & Unggah: Jalankan git add ., git commit -m "initial commit", lalu git push ke GitHub.
+ * Iterasi: Saat membuat pembaruan fitur, ulangi proses commit dan push.
+Pendapat Saya : Materi ini sangat solutif dan praktis karena berhasil mengawinkan efisiensi pembuatan kode berbasis AI lewat prompt engineering yang terstruktur dengan kedisiplinan version control menggunakan Git dan GitHub. Kombinasi ini membantu kita mengubah ide menjadi aplikasi secara cepat tanpa mengorbankan tata kelola dan kolaborasi proyek teknis yang aman serta profesional.
