@@ -1,0 +1,15 @@
+Materi "Building with AI, Managing Change with GitHub" yang dibawakan oleh Nugi Farhan
+berfokus pada penggabungan antara alur kerja pembuatan aplikasi berbasis AI dan manajemen
+versi kode menggunakan Git serta GitHub. Sesi diawali dengan pembahasan prompt engineering,
+yaitu seni merancang instruksi secara spesifik agar model AI dapat menghasilkan luaran yang akurat,
+relevan, dan minim bias. Penulis menekankan pentingnya konteks dan struktur prompt yang ideal,
+yang mencakup kejelasan peran (role), tugas (task), konteks beserta batasan (context & constraints),
+hingga format hasil akhir (format/output). Selanjutnya, materi membedakan Git sebagai sistem kontrol
+versi lokal terdistribusi untuk melacak riwayat perubahan file, dan GitHub sebagai platform berbasis
+cloud yang memfasilitasi penyimpanan repositori online serta kolaborasi tim. Peserta diajarkan memahami
+alur kerja Git yang terbagi menjadi Working Directory (area pengerjaan), Staging Area (penampungan perubahan),
+dan Repository (database lokal), lengkap dengan perintah dasar seperti git init, git add, git commit,
+serta perintah integrasi remote seperti git push, git pull, dan pengaturan koneksi aman menggunakan SSH key.
+Di akhir materi, seluruh konsep tersebut diimplementasikan secara praktis melalui proyek sederhana Student
+Task Planner, tempat peserta membuat kode aplikasi menggunakan AI dan mengelola pembaruannya secara terstruktur
+menggunakan Git dan GitHub.
